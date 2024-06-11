@@ -1,0 +1,139 @@
+{
+    "buckets": [
+        {
+            "key": "ca-comm",
+            "country": "canada",
+            "api": "https://www.commerciallistings.cbre.ca/api/propertylistings/query?Site="
+        },
+        {
+            "key": "au-comm",
+            "country": "australia",
+            "api": "https://www.cbre.com.au/property-api/propertylistings/query?Site="
+        },
+        {
+            "key": "be-resi",
+            "country": "belguim",
+            "api": "https://uat.commerciallistings.cbre.co.uk/api/propertylistings/query?Site="
+        },
+        {
+            "key": "uk-comm",
+            "country": "united-kingdom",
+            "api": "https://www.commerciallistings.cbre.co.uk/api/propertylistings/query?Site="
+        },
+        {
+            "key": "us-comm",
+            "country": "united-states",
+            "api": "https://www.cbre.us/property-api/propertylistings/query?Site="
+        },
+        {
+            "key": "nz-comm",
+            "country": "new-zealand",
+            "api": "https://commerciallistings.cbre.co.nz/api/propertylistings/query?Site="
+        },
+        {
+            "key": "de-comm",
+            "country": "germany",
+            "api": "https://www.gewerbeimmobilien.cbre.de/api/propertylistings/query?Site="
+        },
+        {
+            "key": "es-comm",
+            "country": "spain",
+            "api": "https://www.cbreinmuebles.cbre.es/api/propertylistings/query?Site="
+        },
+        {
+            "key": "uk-resi",
+            "country": "united-kindom",
+            "api": "https://www.commerciallistings.cbre.co.uk/api/propertylistings/query?Site="
+        },
+        {
+            "key": "ie-comm",
+            "country": "ireland",
+            "api": "https://www.commercial-listings.cbre.ie/api/propertylistings/query?Site="
+        },
+        {
+            "key": "at-comm",
+            "country": "austria",
+            "api": "https://www.immo.cbre.at/api/propertylistings/query?Site="
+        },
+        {
+            "key": "it-comm",
+            "country": "italy",
+            "api": "https://www.immobiliare.cbre.it/api/propertylistings/query?Site="
+        },
+        {
+            "key": "il-comm",
+            "country": "israel",
+            "api": "https://www.commerciallistings.cbre.co.il/api/propertylistings/query?Site="
+        },
+        {
+            "key": "at-resi",
+            "country": "austria",
+            "api": "https://www.cbreresidential.com/api/propertylistings/query?Site="
+        },
+        {
+            "key": "pt-comm",
+            "country": "portugal",
+            "api": "https://www.imoveis.cbre.pt/api/propertylistings/query?Site="
+        },
+        {
+            "key": "fr-resi",
+            "country": "france",
+            "api": "https://www.cbreresidential.com/api/propertylistings/query?Site="
+        },
+        {
+            "key": "ch-comm",
+            "country": "switzerland",
+            "api": "https://lettings.cbre.ch/api/propertylistings/query?Site="
+        },
+        {
+            "key": "rs-comm",
+            "country": "serbia",
+            "api": "https://www.nekretnine.cbre.rs/api/propertylistings/query?Site="
+        },
+        {
+            "key": "bh-comm",
+            "country": "bahrain",
+            "api": "https://www.commerciallistings.cbre.bh/api/propertylistings/query?Site="
+        },
+        {
+            "key": "rs-resi",
+            "country": "serbia",
+            "api": "https://www.cbreresidential.com/api/propertylistings/query?Site="
+        },
+        {
+            "key": "no-comm",
+            "country": "norway",
+            "api": "https://www.commerciallistings.cbre.no/api/propertylistings/query?Site="
+        },
+        {
+            "key": "bh-resi",
+            "country": "bahrain",
+            "api": "https://www.cbreresidential.com/api/propertylistings/query?Site="
+        },
+        {
+            "key": "sg-comm",
+            "country": "singapore",
+            "api": "https://www.cbre.com.sg/property-api/propertylistings/query?Site="
+        },
+        {
+            "key": "tr-comm",
+            "country": "turkey",
+            "api": "https://www.propertysearch.cbre.com.tr/api/propertylistings/query?Site="
+        },
+        {
+            "key": "ro-comm",
+            "country": "romania",
+            "api": "https://uat-www.cbre.us/property-api/propertylistings/query?Site="
+        },
+        {
+            "key": "in-comm",
+            "country": "india",
+            "api": "https://www.cbre.co.in/property-api/propertylistings/query?Site="
+        },
+        {
+            "key": "ae-comm",
+            "country": "united-arab-emirates",
+            "api": "https://www.cbreresidential.com/api/propertylistings/query?Site="
+        }
+    ]
+}
